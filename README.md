@@ -1,1 +1,1 @@
-# Goup-policy-Management-Home-Lab-Creating-and-setting-up-GPOs
+# Creating-and-setting-up-GPOs
