@@ -96,7 +96,6 @@ There are multiple ways to create and assign GPOs. Below are the steps and types
 
 ### 🧩 Example GPO Scenarios
 
-You can include screenshots or export `.pol` files for examples like:
 
 * Enforcing password length
 * Locking the desktop after inactivity
