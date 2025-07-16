@@ -1,6 +1,5 @@
 
 
-
 ## 🛡️ Group Policy Management Home Lab: Creating and Setting Up GPOs
 
 Welcome to my **Group Policy Management (GPO)** home lab. This lab demonstrates how to install and configure Group Policy Objects in a Windows Server environment to enforce security standards and administrative controls across a domain.
